@@ -1,0 +1,19 @@
+#search-result{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    padding: 50px;
+}
+#search-result img{
+    width: 200px;
+    border: 2px solid goldenrod;
+
+}
+.searchBar{
+    align-items: center;
+    margin-left: 30%;
+}
+.leftNav{
+    text-align: center;
+
+}
