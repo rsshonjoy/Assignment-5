@@ -7,7 +7,7 @@
 #search-result img{
     width: 200px;
     border: 2px solid goldenrod;
-
+    margin: 40px 50px;
 }
 .searchBar{
     align-items: center;
